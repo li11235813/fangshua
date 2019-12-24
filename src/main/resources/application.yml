@@ -5,7 +5,7 @@ spring:
     timeout: 5000
 server:
   servlet:
-    context-path: /防刷
+    context-path: /fangshua
 logging:
   level: debug
 
