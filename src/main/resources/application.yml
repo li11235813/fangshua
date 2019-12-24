@@ -3,3 +3,9 @@ spring:
     host: 192.168.230.128
     port: 6379
     timeout: 5000
+server:
+  servlet:
+    context-path: /防刷
+logging:
+  level: debug
+
