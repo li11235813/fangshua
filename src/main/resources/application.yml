@@ -3,10 +3,15 @@ spring:
     host: 192.168.230.128
     port: 6379
     timeout: 5000
+#新建分支2
+#分支2的开发
+#分支1
+  jpa:
+    show-sql: false
 server:
   servlet:
     context-path: /fangshua
 logging:
   level: debug
-#新建分支2
+
 
